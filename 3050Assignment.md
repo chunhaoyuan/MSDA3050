@@ -1,3 +1,36 @@
+# Publicly available datasets 
+
+## Dataset 1:
+
+- Link: [Wine quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+- Purpose (what would you use this dataset for, explain, a short paragraph): In nowadays  people’s quality of life is improving, cuisine and wine are becoming indispensable in our daily life, but not everyone has professional knowledge about red wine. Thus, it is not an easy task for an ordinary person to choose a bottle of red wine that meets everyone’s expectations. You probably do not want the quality of the wine that you choose to be awful. Moreover, if a poor quality wine is bid up by the merchant, then people will be deceived on the price. If we can utilized the data about wine acidity, density, PH value or other factors that affect the quality of red wine, it can be used to train the machine. Then we can use the results to classify red wine in the future, so that people do not have to worry about buying poor quality of red wine.
+
+## Dataset 2:
+
+- Link: [Stock price prediction](https://www.kaggle.com/dgawlik/nyse)
+- Purpose (what would you use this dataset for, explain, a short paragraph): We all know that in addition to have active income, we also need passive income, and stocks are a kind of passive income. However, we all know that the stock market will continue to change with the daily situation, and how do we ensure that the stocks we buy is stable enough, or can guarantee the maximum benefit in the future, this is something we have always wanted to know. We do not want to buy a certain company’s stock, and because their operating problems lead to the company’s bankruptcy. Therefore, choosing this data for machine learning allows us to make judgments. With stock prices, you can buy at a low price at the right time, and you can use the data to determine which company is most likely to go bankrupt, and then avoid the high-risk portfolio.
+
+## Dataset 3:
+
+- Link: [Fake news detection](https://www.kaggle.com/c/fake-news/data)
+- Purpose (what would you use this dataset for, explain, a short paragraph): In today's society, fraud is a simple matter. People sometimes leave incorrect comments on something because they received fake news, and the fake news sometimes occurs in politics.  In order to discredit the opponent, fake news about the opponent is created to confuse the public and make the public lose confidence in that person. However, using machine learning, we can utilized data to judge the credibility of these articles, increase the authenticity about the news and reduce the occurrence of errors. 
+
+## Dataset 4:
+
+- Link: [Credit card approval prediction](https://www.kaggle.com/rikdifos/credit-card-approval-prediction)
+- Purpose (what would you use this dataset for, explain, a short paragraph): Credit card can be said something that everyone have at least one in their wallet. Although everyone has the credit card, however, with the emergence of people cannot afford the their card fee, credit bankruptcy and other problems, not everyone can easily get a credit card. Since the bank will judge the credibility of this person based on specific data and decide whether to issue a credit card. Therefore, by establishing the ML model, we can take advantage of these data to determine whether the applicant is eligible for a credit card, so as to reduce the bank's own losses.
+
+## Dataset 5:
+
+- Link: [Parkinson disease detection](https://www.kaggle.com/debasisdotcom/parkinson-disease-detection)
+- Purpose (what would you use this dataset for, explain, a short paragraph): Parkinson is an increasingly common disease in today's society. Since, people who got Parkinson will exhibit characteristic vocal features. Thus, using these data such as Average vocal fundamental frequency, Minimum vocal fundamental frequency, Several
+measures of variation in fundamental frequency, and other facts that could determine whether the people will got Parkinson. Therefore, to establish an ML model to determine whether people have a potential risk of getting Parkinson. 
+
+# Dataset information
+
+
+## Chosen dataset: ***dataset4***
+
 ```python
 import pandas as pd
 ```
